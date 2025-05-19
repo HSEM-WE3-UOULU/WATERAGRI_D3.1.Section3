@@ -1,0 +1,54 @@
+D3.1Assessment of Use of Remotely Sensed Vegetation to Improve Irrigation
+Section 3. The use of surface and groundwater for irrigation
+
+Following are the details of all the dataset required for the section inluded in the del
+
+Dataset - Discharge. Tyrnäväjoki river.
+Data unit - m3/sec
+Data producer - Open environmental information systems, Finland
+Year - 1989.01.01 to 31.12.2020
+temporal scale - Daily
+Format - csv
+Link for more details - https://wwwp2.ymparisto.fi/scripts/kirjaudu.asp
+
+Dataset - Precipitation.
+Data unit - mm
+Data producer - Finnish Meteorological Institute
+Year - 01.01.1961 to 31.12.2020
+temporal scale - Daily
+Format - csv
+Link for more details - http://www.csc.fi/paituli
+
+Dataset - maximum air temperature
+Data unit - degree_C
+Data producer - Finnish Meteorological Institute
+Year - 01-01-1959 to 31-12-2020
+temporal scale - Daily
+Format - csv
+Link for more details - http://www.csc.fi/paituli
+
+Dataset - minimum air temperature
+Data unit - degree_C
+Data producer - Finnish Meteorological Institute
+Year - 01-01-1959 to 31-12-2020
+temporal scale - Daily
+Format - csv
+Link for more details - http://www.csc.fi/paituli
+
+Dataset - mean air temperature
+Data unit - degree_C
+Data producer - Finnish Meteorological Institute
+Year - 01-01-1959 to 31-12-2020
+temporal scale - Daily
+Format - csv
+Link for more details - http://www.csc.fi/paituli
+
+Dataset - Penman-monteith Evapotranspiration
+Year - 01-01-1961 to 31-12-2020
+temporal scale - Daily
+Format - csv
+
+Dataset - NDVI
+Year - 1984 to 2020
+Format - csv
+Data description - Data was generated on google earth engine using Landsat 5, 7, and 8 RS-based products.
